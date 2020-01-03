@@ -10,7 +10,6 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^6.2.1-stable",
-        "roave/security-advisories" : "dev-master",
         "vlucas/phpdotenv": "~1.0",
         "league/climate": "^3.2",
         "foxxmd/php-utilities": "dev-master"
